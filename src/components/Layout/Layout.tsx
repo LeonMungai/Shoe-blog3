@@ -4,14 +4,16 @@ import Footer from "../Footer/Footer";
 
 const Layout = () => {
   return (
-    <div className="layout">
+    <>
       {" "}
+      <div className="sticky top-0">
       <Navbar />
-      <div className="container">
+      </div>
+      <div className="bg-white min-h-screen">
         <Outlet />
       </div>
       <Footer />
-    </div>
+    </>
   );
 };
 

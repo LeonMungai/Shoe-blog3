@@ -22,7 +22,7 @@ export const ArticleDetail = () => {
 
   return (
     <div className="my-5">
-      <div className="border border-[#c5c5c5] rounded-lg shadow-sm shadow-[#c5c5c5]">
+      <div className="mx-auto container border border-[#c5c5c5] rounded-lg shadow-sm shadow-[#c5c5c5]">
         <img
           className="w-full h-[300px] object-cover rounded-t-lg"
           src={article.image}

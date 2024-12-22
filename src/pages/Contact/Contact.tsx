@@ -24,7 +24,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="py-11 px-96 bg-teal-400 rounded-sm">
+    <div className="py-11 px-96 bg-teal-400 rounded-sm h-screen">
       <h1 className="text-2xl font-bold mb-4">Profile</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <div className="mb-4">
