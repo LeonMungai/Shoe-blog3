@@ -1,0 +1,68 @@
+
+[
+    {
+      "title": "Article 1",
+      "slug": "leo-article",
+      "content": " Nike Air Max SC 360 White Black",
+      "date": "2021-01-01",
+      "author": "Leon 1",
+      "image": "https://images5.monotote.com/assets/images/static/aHR0cHM6Ly9zdGF0aWMubmlrZS5jb20vYS9pbWFnZXMvdF9QRFBfMTI4MF92MS9hMjU2MWUxZi04ODRiLTRiZjMtOTAyZi03NDBlODczZTY2MmMvYWlyLW1heC1zYy1tZW5zLXNob2VzLUxSNDJ4Zy5wbmcjNzJhMTE1MDIwNTVjYzcyZGQxZjdjYTk0NjMxZTc1MDc3ZmFlMGEyOTU0NGQwNzhl?q=70&w=300&h=1000&v=2.2.0-bbadf6b0"
+    },
+    {
+      "title": "Article 2",
+      "slug": "article-2",
+      "content": "Nike Air Max 95 Black Aurora Green",
+      "date": "2021-01-02",
+      "author": "Author 2",
+      "image": "https://sneakernews.com/wp-content/uploads/2024/12/nike-air-max-95-black-aurora-green-hv6062-001-3.jpg?w=300"
+    },
+    {
+      "title": "Article 3",
+      "slug": "article-3",
+      "content": "Travis Scott's Air Jordan 1 Lown Velvet Brown",
+      "date": "2021-01-03",
+      "author": "Author 3",
+      "image": "https://sneakernews.com/wp-content/uploads/2024/12/travis-scott-jordan-1-low-velvet-brown-featured.jpg?w=300 "
+    },
+    {
+      "title": "Article 4",
+      "slug": "article-4",
+      "content": "New Balance 1000 Lunar New Year",
+      "date": "2021-01-04",
+      "author": "Author 4",
+      "image": "https://sneakernews.com/wp-content/uploads/2024/12/new-balance-1000-lunar-new-year-m1000lny-2.jpg?w=300"
+    },
+    {
+      "title": "Article 5",
+      "slug": "article-5",
+      "content": "Nike Air Max Sunder Orange Black",
+      "date": "2021-01-05",
+      "author": "Author 5",
+      "image": "https://sneakernews.com/wp-content/uploads/2024/11/kids-of-immigrants-air-max-sunder-HF3286-700-1.jpg?w=300"
+    },
+    {
+      "title": "Article 6",
+      "slug": "article-6",
+      "content": "Nike Air Fore 1 '07 Pink and White",
+      "date": "2021-01-06",
+      "author": "Author 6",
+      "image": "https://images.monotote.com/assets/images/static/aHR0cHM6Ly9zdGF0aWMubmlrZS5jb20vYS9pbWFnZXMvdF9QRFBfMTI4MF92MS8yODY0NmI1Yy1lNjgzLTRiYzUtYjI4MS1mZjE2YzM4NDE1NDAvYWlyLWZvcmNlLTEtMDctd29tZW5zLXNob2VzLVBxZHhKdy5wbmcjZjEwYjYzZTYwYzQyYjFkOWNjNTE1OGViZjk0ZmE3ZTM3MmZiYmZjZjQzMTZmNTQ2?q=70&w=300&h=1000&v=2.2.0-bbadf6b0"
+    },
+    {
+      "title": "Article 7",
+      "slug": "article-7",
+      "content": "NBA 2K 2021 'Puma Scoot Zero ||'",
+      "date": "2021-01-07",
+      "author": "Author 7",
+      "image": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/3df2c2391760bf6f4f332ced0b50daaf_1734547665.jpg"
+    },
+    {
+      "title":"Article 8",
+      "slug":"article-8",
+      "content":"Nike SB Dunk Low 'The Wizard of OZ'",
+      "date":"2021-01-08",
+      "author":"Author 8",
+      "image":"https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/faa9514e9d199fd8984fed9e545a173c_1733765623.jpg"
+    }
+  ]
+  
