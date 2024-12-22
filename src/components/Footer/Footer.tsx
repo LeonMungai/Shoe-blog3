@@ -16,7 +16,7 @@ import {
             <Facebook />
           </a>
           <a target="_blank" href="https://twitter.com"
-          className="border border-black bg-zinc-600 rounded-full p-1 w-7 h-7 flex items-center text-black"
+          className="border border-black bg-blue-400 rounded-full p-1 w-7 h-7 flex items-center text-black"
           >
             <Twitter />
           </a>
@@ -26,10 +26,10 @@ import {
             <MessageCircleHeart />
           </a>
           <a target="_blank" href="https://instagram.com"
-          className="border border-black bg-pink-300 rounded-full p-1 w-7 h-7 flex items-center text-black">
+          className="border border-black bg-pink-400 rounded-full p-1 w-7 h-7 flex items-center text-black">
             <Instagram />
           </a>
-          <a className="border border-black bg-red-300 rounded-full p-1 w-7 h-7 flex items-center text-black">
+          <a className="border border-black bg-red-400 rounded-full p-1 w-7 h-7 flex items-center text-black">
             <CircleFadingPlus />
           </a>
           <a href="https://linkedin.com"
