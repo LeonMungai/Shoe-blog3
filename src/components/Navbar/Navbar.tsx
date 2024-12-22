@@ -49,10 +49,10 @@ import {
             <NavLink className={({isActive}) =>isActive ? "text-red-500 uppercase": "text-black font-medium uppercase"} to={APP_ROUTES.HOME}>Home</NavLink>
           </li>
           <li className="m-4 hover:bg-white rounded-full p-1">
-            <NavLink className={({isActive}) =>isActive ? "text-red-500 uppercase": "text-black font-medium uppercase"  } to={APP_ROUTES.CONTACT}>Contact</NavLink>
+            <NavLink className={({isActive}) =>isActive ? "text-red-500 uppercase": "text-black font-medium uppercase"  } to={APP_ROUTES.ABOUT}>About</NavLink>
           </li>
           <li className="m-4 hover:bg-white rounded-full p-1">
-            <NavLink className={({isActive}) =>isActive ? "text-red-500 uppercase": "text-black font-medium uppercase"  } to={APP_ROUTES.ABOUT}>About</NavLink>
+            <NavLink className={({isActive}) =>isActive ? "text-red-500 uppercase": "text-black font-medium uppercase"  } to={APP_ROUTES.CONTACT}>Contact</NavLink>
           </li>
         </ul>
       </div>
