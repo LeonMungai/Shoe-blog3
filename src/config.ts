@@ -1,0 +1,1 @@
+export const SITE_NAME = "Shoe blog 3"
